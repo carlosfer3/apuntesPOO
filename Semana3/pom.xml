@@ -8,6 +8,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>23</maven.compiler.release>
-        <exec.mainClass>uni.edu.semana3.Calculadora</exec.mainClass>
+        <exec.mainClass>uni.edu.semana3.Semana3</exec.mainClass>
     </properties>
 </project>
