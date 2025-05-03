@@ -14,3 +14,7 @@ Se crean, ejecutan y mueren dentro de los procesos, y comparten información ent
 <div align="center"><img src="../img/hilos.png" width="800px"></div>
 
 ~Se ejecuta al mismo tiempo que el programa (síncrono)
+
+
+## TAREA
+Elaborar un programa en Java, donde se ingrese un número (límite), y un hilo calcule la suma de todos los números pares, otro calcule la suma de todos los números impares, y el último calcule la suma de todos los números primos, hasta el número y que se muestren en consola los resultados al mismo tiempo.
