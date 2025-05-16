@@ -5,12 +5,12 @@ La idea es tener un sistema básico pero funcional, que permita mantener un regi
 
 ---
 ## Imágenes de la clase
-![alt text](<Imagen de WhatsApp 2025-05-15 a las 18.41.26_118f431f.jpg>)
+<div align='center'><img width='700' src='imgclase2.jpg'></div>
 
 Comenzar con la tabla de Personas para la base de datos, se tiene como objetivo tenerlo como base para la PC4 e implementar las demás tablas.
 
 ---
-![alt text](<Imagen de WhatsApp 2025-05-15 a las 18.41.29_b0a8309a.jpg>)
+<div align='center'><img width='700' src='imgclase1.jpg'></div>
 
 Mostrar en el JFrame que se logró la conexión con la base de datos, debe de haber un botón para poder abrir otro JFrame para poder registrar, actualizar, eliminar personas.
 
