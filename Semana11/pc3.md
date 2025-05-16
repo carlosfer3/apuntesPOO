@@ -13,3 +13,6 @@ Comenzar con la tabla de Personas para la base de datos, se tiene como objetivo 
 ![alt text](<Imagen de WhatsApp 2025-05-15 a las 18.41.29_b0a8309a.jpg>)
 
 Mostrar en el JFrame que se logró la conexión con la base de datos, debe de haber un botón para poder abrir otro JFrame para poder registrar, actualizar, eliminar personas.
+
+---
+Se debe de implementar los principios SOLID y patrones de diseño
