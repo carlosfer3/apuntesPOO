@@ -13,6 +13,10 @@ Comenzar con la tabla de Personas para la base de datos, se tiene como objetivo 
 <div align='center'><img width='700' src='imgclase1.jpg'></div>
 
 Mostrar en el JFrame que se logró la conexión con la base de datos, debe de haber un botón para poder abrir otro JFrame para poder registrar, actualizar, eliminar personas.
+> [!IMPORTANT] En la tabla se deben de mostrar los datos de las personas en todo momento, ya sea al registrar, actualizar, o eliminar. La tabla debe de reflejar la base de datos de las personas.
 
 ---
 Se debe de implementar los principios SOLID y patrones de diseño
+
+SUERTE CHICOS, by profe
+<div align='center' width='400'><img src='PROFE.jpg'></div>
