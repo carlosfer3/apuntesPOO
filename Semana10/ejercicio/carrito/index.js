@@ -31,20 +31,14 @@ let datos = {
     }
 }
 
-const calcularLongitud = () => {
-    let resultado = 0
-    for (let indice in datos) {
-        resultado += 1
-    }
-
-    return resultado
-}
 
 const añadirZapato = (nombre, precio, ruta) => {
-    let indice = calcularLongitud() + 1
-    datos[indice]['nombre'] = nombre
-    datos[indice]['precio'] = precio
-    datos[indice]['ruta'] = ruta
+    let objeto = {
+        'nombre': nombre,
+        'precio': precio,
+        'ruta': ruta
+    }
+    datos.push(objeto)
 }
 
 const container = $('.container')

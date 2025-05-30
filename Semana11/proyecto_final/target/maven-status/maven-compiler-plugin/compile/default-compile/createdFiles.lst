@@ -1,0 +1,7 @@
+uni\edu\proyecto_final\resources\JakartaEE11Resource.class
+uni\edu\modelo\Persona.class
+uni\edu\controlador\PersonaControlador.class
+uni\edu\proyecto_final\JakartaRestConfiguration.class
+uni\edu\modelo\dao\DistritoDAO.class
+uni\edu\modelo\dao\PersonaDAO.class
+uni\edu\conexion\Conexion.class
